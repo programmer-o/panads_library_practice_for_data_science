@@ -1,0 +1,3 @@
+#!/home/jraikhola/Desktop/Data_science/myenv/bin/python
+from numba.pycc import main
+main()
